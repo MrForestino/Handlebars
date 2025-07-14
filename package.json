@@ -1,11 +1,11 @@
 {
-  "name": "lesson-07",
+  "name": "handlebars",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "vite build --base=/lesson-07/",
+    "build": "handlebars",
     "preview": "vite preview",
     "start": "start"
   },
