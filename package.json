@@ -1,11 +1,11 @@
 {
-  "name": "handlebars",
+  "name": "Handlebars",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "handlebars",
+    "build": "vite build --base=/Handlebars/",
     "preview": "vite preview",
     "start": "start"
   },
