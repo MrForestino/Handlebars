@@ -2,7 +2,7 @@ import './style.css'
 import Handlebars from 'handlebars';
 import product from "./product.hbs?raw"
 
-const products = [
+export const products = [
   {
     id: 1,
     name: 'Laptop',
