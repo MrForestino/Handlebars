@@ -4,7 +4,7 @@ import injectHTML from 'vite-plugin-html-inject';
 import FullReload from 'vite-plugin-full-reload';
 
 export default defineConfig({
-  base: '/lesson-07/', //! 👈 ВАЖЛИВО: вкажіть базу
+  base: '/Handlebars/', //! 👈 ВАЖЛИВО: вкажіть базу
   root: 'src',
   build: {
     rollupOptions: {
